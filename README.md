@@ -2,10 +2,6 @@
 
 This User Management Application is designed to retrieve and display user information from the RandomUser.me API.
 
-## Demo
-
-[User Management App](https://randomusersmanagement.web.app/)
-
 ## Features
 
 1. Display a list of random users.
@@ -13,6 +9,10 @@ This User Management Application is designed to retrieve and display user inform
 3. Get detailed information about selected users.
 4. Implement user sorting, data filtering and user pagination.
 5. Provide a user-friendly experience.
+
+## Demo
+
+[User Management App](https://randomusersmanagement.web.app/)
 
 ## Tech Stack
 
@@ -22,7 +22,7 @@ This User Management Application is designed to retrieve and display user inform
 ## Preview
 
 **Main**
-![Main]()
+![Main](https://github.com/PrajwalTikhe1/UserManagementApp/assets/72973991/73318536-0d66-4ec5-bb97-3ef916ae9bb0)
 
 ## Installation
 
